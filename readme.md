@@ -1,4 +1,4 @@
-[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/cl-touch.png)](https://www.climber.eu)
+[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/cl-touch_large.png)](https://www.climber.eu)
 
 Climber Touch Directives
 
