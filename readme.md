@@ -1,4 +1,4 @@
-[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/climber-logo.png)](https://www.climber.eu)
+[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/cl-touch.png)](https://www.climber.eu)
 Climber Touch Directives
 
 A qvangular module to add directives for Qlik Sense input events. Useful when using ng-repeat.
@@ -62,3 +62,5 @@ $scope.onSwipe = function($event) {
 ## License
 
 Released under the MIT License - see [`license.txt`](https://github.com/kfredberg/clTouch/blob/master/license) for details.
+
+[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/climber-logo.png)](https://www.climber.eu)
