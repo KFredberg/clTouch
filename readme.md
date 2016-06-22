@@ -8,7 +8,6 @@ A qvangular module to add directives for Qlik Sense input events. Useful when us
 [![Github All Releases](https://img.shields.io/github/downloads/KFredberg/clTouch/total.svg?maxAge=2592000)](https://github.com/KFredberg/clTouch)
 [![GitHub stars](https://img.shields.io/github/stars/KFredberg/clTouch.svg)](https://github.com/KFredberg/clTouch/stargazers)
 [![Issues](https://img.shields.io/github/issues/KFredberg/clTouch.svg)](https://github.com/KFredberg/clTouch/issues)
-[![Forks](https://img.shields.io/github/forks/KFredberg/clTouch.svg)](https://github.com/KFredberg/clTouch/network)
 
 
 * [Info](#info)
