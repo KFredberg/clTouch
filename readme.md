@@ -1,3 +1,4 @@
+[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/climber-logo.png)](https://www.climber.eu)
 Climber Touch Directives
 
 A qvangular module to add directives for Qlik Sense input events. Useful when using ng-repeat.
