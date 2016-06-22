@@ -37,7 +37,7 @@ define(['qvangular'], function (qvangular) {
 	                scope.$apply(method);
 	            }
 
-	        }]
+	        }
 	    }
 	});
 
@@ -50,8 +50,7 @@ define(['qvangular'], function (qvangular) {
 	                scope.$event = event;
 	                scope.$apply(method);
 	            }
-
-	        }]
+	        }
 	    }
 	});
 	
@@ -64,8 +63,7 @@ define(['qvangular'], function (qvangular) {
 	                scope.$event = event;
 	                scope.$apply(method);
 	            }
-
-	        }]
+	        }
 	    }
 	});
 
