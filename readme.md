@@ -64,4 +64,4 @@ $scope.onSwipe = function($event) {
 
 Released under the MIT License - see [`license.txt`](https://github.com/kfredberg/clTouch/blob/master/license) for details.
 
-[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/climber-logo.png)](https://www.climber.eu)
+[![Climber - clTouch](https://github.com/kfredberg/clTouch/blob/master/climber-logo_small.png)](https://www.climber.eu)
